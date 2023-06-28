@@ -1,0 +1,30 @@
+Pong//
+
+-> Dois Jogadores(PLayer 1 joga com o keyboard, Player 2 joga com o mouse);
+
+-> Implementar uma score table no canto superior direito " 0 || 0 ";
+
+-> Ganha o primeiro jogador que atingir a pontuação de 5, sendo que tem de diferenciar dois pontos do outro jogador, se não diferenciar o jogo continua e vai-se fazendo partidas até um dos jogadores
+ficar com mais 2 pontos que o outro, ganhando assim o jogo;
+
+-> Através de um timer, vai se verificando quanto tempo tem cada uma das partidas de modo a quanto mais tempo estiver a demorar uma partida, mais difícil fica esta,
+ex:	1º 30 segundos -> a bola fica mais rápida;
+	2º 60 segundos -> as barras de cada um dos jogadores ficam mais pequenas;
+	3º 90 segundos -> a bola fica ainda mais rápida;
+	4ª 120 segundos -> as barras de cada um dos jogadores ficam ainda mais pequenas;
+	5ª 150 segundos -> a bola transforma-se em duas e cada um dos jogadores tem que manter ambas fora da sua 'baliza', Basta uma passar para perder;
+	6º 180 segundos -> um power up que se mexe, aparece no meio do ecrã e o jogador que conseguir atingir o power up com a bola, tem a sua barra aumentada para o tamanho inicial;
+
+-> Implementar gráficos no projeto, de forma a que não seja apenas pixels;
+
+-> Implementar um Menu que tenha estas três opções( Play / Scoreboard log / Highest score) (Navega-se o menu com o mouse ou keyboard?);
+
+-> Quando se clica na opção Play, antes de começar um jogo, cada um dos jogadores tem que escrever o seu username (usando o mesmo keyboard se for no mesmo pc/ usando diferentes keyboards se estiverem 
+a jogar em diferentes PCs;
+
+-> Quando se clica no scoreboard, aparecem os jogos anteriores com os nomes das pessoas que os jogaram;
+
+-> Quando se clica no Highest Score, aparece o máximo de tempo que dois jogadores jogaram uma única partida e aparece também o nome de ambos os jogadores;
+
+
+

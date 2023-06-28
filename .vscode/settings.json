@@ -1,0 +1,13 @@
+{
+<<<<<<< HEAD
+    "files.associations": {
+        "lcf.h": "c",
+        "proj.h": "c",
+        "game.h": "c"
+=======
+    "makefile.extensionOutputFolder": "./.vscode",
+    "files.associations": {
+        "lcf.h": "c"
+>>>>>>> 2198e225290f58170691a70dc6288d4b13cecd00
+    }
+}
